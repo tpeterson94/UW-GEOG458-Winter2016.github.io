@@ -7,7 +7,7 @@ layout: layout
 
 
 
-#### The single line: ![A Shape](http://UW-GEOG458-Winter2016.github.io/galleries/shapes/lrb9-gallery.svg)
-A [poor!] example from Prof. Bergmann to get you started.
+#### *The single line* ![A Shape](http://UW-GEOG458-Winter2016.github.io/galleries/shapes/lrb9-gallery.svg)
+*The single line* is just an example from Prof. Bergmann to get us started.
 
 #### A shape...
