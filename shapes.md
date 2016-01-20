@@ -15,3 +15,6 @@ layout: layout
 #### The Wannabe Circle ![Wannabe Circle](http://UW-GEOG458-Winter2016.github.io/galleries/shapes/willchan22-zellenberg-gallery.svg)
 
 #### IDK What to Call This ![twofourone](http://uw-geog458-winter2016.github.io/galleries/shapes/turtles-and-circles-lonnie-oster-tretiakova.svg)
+
+#### Finger Trap ![FingerTrap](http://uw-geog458-winter2016.github.io/galleries/shapes/uncheckederror-mhuh22-galleryprint.svg)
+
