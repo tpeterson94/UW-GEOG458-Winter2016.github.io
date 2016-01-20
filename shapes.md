@@ -8,7 +8,8 @@ layout: layout
 
 
 #### *The single line* ![A Shape](http://UW-GEOG458-Winter2016.github.io/galleries/shapes/lrb9-gallery.svg)
-*The single line* is just an example from Prof. Bergmann to get us started.
-*Note*: Check the [gallery URL](http://UW-GEOG458-Winter2016.github.io/shapes.html) after you save it to make sure it works. It may take a minute to update.
+*The single line* is just an example from Prof. Bergmann to get us started. Note: Check the [gallery URL](http://UW-GEOG458-Winter2016.github.io/shapes.html) after you save it to make sure it works.
 
 #### A *Drunk Square* ![Drunk Square](http://UW-GEOG458-Winter2016.github.io/galleries/shapes/Hardy.svg)
+
+#### The Wannabe Circle ![Wannabe Circle](http://UW-GEOG458-Winter2016.github.io/galleries/shapes/willchan22-zellenberg-gallery.svg)
