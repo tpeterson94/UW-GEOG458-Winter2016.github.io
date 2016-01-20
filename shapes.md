@@ -12,4 +12,4 @@ layout: layout
 
 #### A shape...
 
-![Drunk Square](http://UW-GEOG458-Winter2016.github.io/galleries/shapes/Hardy.svg)
+*Drunk Square* [Drunk Square]("http://UW-GEOG458-Winter2016.github.io/galleries/shapes/Hardy.svg")
