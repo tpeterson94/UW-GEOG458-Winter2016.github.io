@@ -11,3 +11,5 @@ layout: layout
 *The single line* is just an example from Prof. Bergmann to get us started.
 
 #### A shape...
+
+![Drunk Square] (https://github.com/UW-GEOG458-Winter2016/UW-GEOG458-Winter2016.github.io/blob/master/Hardy.svg)
