@@ -18,3 +18,4 @@ layout: layout
 
 #### Finger Trap ![FingerTrap](http://uw-geog458-winter2016.github.io/galleries/shapes/uncheckederror-mhuh22-galleryprint.svg)
 
+#### Butternut ![Butternut](http://uw-geog458-winter2016.github.io/galleries/shapes/rachelericturtleactivity.svg)
