@@ -26,4 +26,4 @@ layout: layout
 
 #### *Randomly Generated Shape* ![Random Shape](http://uw-geog458-winter2016.github.io/galleries/shapes/turtles-and-circles-m1ked123-nsh1988.svg)
 
-##### a *transparent* one ![transparent](http://UW-GEOG458-Winter2016.github.io/galleries/shapes/turtle-and-circles-biubiu233-diandianwr.svg)
+#### a *transparent* one ![transparent](http://UW-GEOG458-Winter2016.github.io/galleries/shapes/turtle-and-circles-biubiu233-diandianwr.svg)
