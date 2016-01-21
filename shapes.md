@@ -21,3 +21,6 @@ layout: layout
 #### Butternut ![Butternut](http://uw-geog458-winter2016.github.io/galleries/shapes/rachelericturtleactivity.svg)
 
 #### Turtle Stamp ![Turtle Stamp](http://uw-geog458-winter2016.github.io/galleries/shapes/turtle_stamp.svg)
+
+#### SW Pentagon ![SW Pentagon](http://uw-geog458-winter2016.github.io/galleries/shapes/nu_canv.svg)
+
