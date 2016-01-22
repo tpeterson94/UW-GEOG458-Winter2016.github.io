@@ -34,5 +34,5 @@ layout: layout
 
 #### Almost a circle?? ![A shape](http://uw-geog458-winter2016.github.io/galleries/shapes/turtles-and-circles-kylekuskus-evcallia.svg)
 
-#### Groovy circle! ![groovy](http://uw-geog458-winter2016.github.io/galleries/shapes/turtles-and-circles-byollin.svg)
+#### Groovy circle! ![groovy](http://uw-geog458-winter2016.github.io/galleries/shapes/turtle-and-circles-byollin.svg)
 
