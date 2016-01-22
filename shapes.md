@@ -28,4 +28,4 @@ layout: layout
 
 #### a *transparent* one ![transparent](http://UW-GEOG458-Winter2016.github.io/galleries/shapes/turtle-and-circles-biubiu233-diandianwr.svg)
 
-#### A circle of blue lines ![Blue Lines](http://UW-GEOG458-Winter2016.github.io/galleries/shapes/Bluelines.svg)
+#### A circle of <font color='blue'>blue lines</font> ![Blue Lines](http://UW-GEOG458-Winter2016.github.io/galleries/shapes/Bluelines.svg)
