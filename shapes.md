@@ -32,4 +32,5 @@ layout: layout
 
 #### Definitely not a cat ![not-a-cat](http://uw-geog458-winter2016.github.io/galleries/shapes/ninip-gallery.svg)
 
+#### Almost a circle?? ![A shape](http://uw-geog458-winter2016.github.io/galleries/shapes/turtles-and-circles-kylekuskus-evcallia.svg)
 
