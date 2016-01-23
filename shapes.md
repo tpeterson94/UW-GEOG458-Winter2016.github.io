@@ -36,3 +36,5 @@ layout: layout
 
 #### Groovy circle! ![groovy](http://uw-geog458-winter2016.github.io/galleries/shapes/turtle-and-circles-byollin.svg)
 
+#### Turts and Circs [kennyanddavid](https://UW-GEOG458-Winter2016.github.io/galleries/shapes/turts_and_circs_ken-david.svg)
+
