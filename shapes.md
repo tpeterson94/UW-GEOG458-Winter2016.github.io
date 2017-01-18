@@ -38,3 +38,5 @@ layout: layout
 
 #### Turts and Circs ![kennyanddavid](https://UW-GEOG458-Winter2016.github.io/galleries/shapes/turts_and_circs_ken-david.svg)
 
+#### A Hexagon with an extra line ![A shape](http://uw-geog458-winter2017.github.io/galleries/shapes/troy94-gallery.svg)
+
